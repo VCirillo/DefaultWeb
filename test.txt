@@ -3,3 +3,5 @@ create in develop a new file from repository
 
 added a couple of spaced lines
 added a new line.
+
+new line for squashing demo
